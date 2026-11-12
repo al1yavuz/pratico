@@ -6,14 +6,15 @@ Kısa konu anlatımları, ünite ünite ilerleyen bir harita ve gerçek sınav f
 🔗 **Dene:** [getpratico.web.app](https://getpratico.web.app)
 Kurulum gerektirmez. Telefonda tarayıcıdan aç, "Ana Ekrana Ekle" ile uygulama gibi kullan.
 
-<!-- Ekran görüntüleri screenshots/ klasörüne eklenince bu bloğun yorum işaretleri kaldırılacak.
 <p align="center">
-  <img src="screenshots/dersler.png" width="220" alt="Dersler ekranı">
-  <img src="screenshots/harita.png" width="220" alt="Ünite haritası">
-  <img src="screenshots/konu-anlatimi.png" width="220" alt="Konu anlatımı kartı">
-  <img src="screenshots/soru.png" width="220" alt="Soru ekranı">
+  <img src="screenshots/baslangic.png" width="200" alt="Başlangıç ekranı">
+  <img src="screenshots/dersler.png" width="200" alt="Dersler ekranı">
+  <img src="screenshots/harita.png" width="200" alt="Ünite haritası">
 </p>
--->
+<p align="center">
+  <img src="screenshots/konu-anlatimi.png" width="200" alt="Konu anlatımı kartı">
+  <img src="screenshots/soru.png" width="200" alt="Doğru/yanlış sorusu">
+</p>
 
 ## Özellikler
 
