@@ -25,9 +25,7 @@ Kurulum gerektirmez. Telefonda tarayıcıdan aç, "Ana Ekrana Ekle" ile uygulama
 - **Hatalarım:** Yanlış yapılan sorular ayrı bir tekrar destesinde toplanır.
 - **Vize provası:** Gerçek sınav formatında; süreli, boş bırakılabilir, sonuç *4 yanlış 1 doğruyu götürür* kuralıyla net olarak.
 - **Genel vize provası:** Dönemin tüm dersleri tek oturumda (80 soru, 120 dakika); ders bazında net.
-- **Formül desteği:** Matematik soruları ve anlatımları gerçek matematik yazımıyla.
 - **Karanlık mod:** Cihaz ayarını takip eder, uygulama içinden de değiştirilebilir.
-- **Geri bildirim:** Hatalı soru tek dokunuşla bildirilir; mesajlar doğrudan geliştiriciye ulaşır.
 
 ## İçerik
 
